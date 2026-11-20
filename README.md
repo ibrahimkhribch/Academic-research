@@ -1,5 +1,5 @@
 # Academic-research
-Academic Research
+
 
 This repository contains a collection of academic research projects, empirical studies, and technical reports conducted during my studiesL.
 
