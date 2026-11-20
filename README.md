@@ -17,6 +17,7 @@ This empirical study compares four coordinate-wise adaptive optimization algorit
 
 The experiments investigate convergence behavior, numerical stability, and sensitivity to batch size across different training configurations.
 
+To read the full report please refer to the pdf file in the main branch
 Methodology
 
 Comparative evaluation of four optimization algorithms.
